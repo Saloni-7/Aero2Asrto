@@ -1,0 +1,8 @@
+,Dataset,Time,Detector/Descriptor
+0,Small Village Dataset,1539.9899712549995,AKAZE
+1,Small Village Dataset,144.34361061600066,BRISK
+2,Small Village Dataset,33.65673051799968,BRISK+FREAK
+3,Small Village Dataset,40.5188715510003,KAZE
+4,Small Village Dataset,121.44388781599991,ORB
+5,Small Village Dataset,40.71762244999991,RootSIFT
+6,Small Village Dataset,256.85984940300114,STAR+BRIEF
