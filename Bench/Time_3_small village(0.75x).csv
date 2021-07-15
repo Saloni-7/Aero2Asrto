@@ -1,0 +1,4 @@
+,Dataset,Time,Detector/Descriptor
+0,Small Village Dataset,607.3159339769998,MSER+SIFT
+1,Small Village Dataset,185.01530141500007,GFTT+SIFT
+2,Small Village Dataset,3778.352969591,AKAZE
