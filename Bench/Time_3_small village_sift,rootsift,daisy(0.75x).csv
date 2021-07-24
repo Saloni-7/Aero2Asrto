@@ -1,0 +1,4 @@
+,Dataset,Time,Detector/Descriptor
+0,Small Village Dataset,739.3860228939993,SIFT
+1,Small Village Dataset,726.9296432110004,ROOTSIFT
+2,Small Village Dataset,748.5422953090001,DAIST+SIFT
