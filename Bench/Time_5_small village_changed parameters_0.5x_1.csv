@@ -1,0 +1,6 @@
+,Dataset,Time,Detector/Descriptor
+0,Small Village Dataset,270.165862971,AGAST+SIFT
+1,Small Village Dataset,56.78717205499993,FAST+SIFT
+2,Small Village Dataset,123.09878787299988,BRISK+FREAK
+3,Small Village Dataset,130.0430103,SURF
+4,Small Village Dataset,484.222431811,SIFT
